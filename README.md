@@ -12,17 +12,17 @@ ideas, and practice data storytelling.
 
 
 
-\## Tools
+## Tools
 
-\- Tableau
+- Tableau
 
-\- Excel / CSV
+- Excel / CSV
 
-\- Public datasets (sources cited per project)
+- Public datasets (sources cited per project)
 
 
 
-\## Projects
+## Projects
 
 
 
@@ -32,7 +32,7 @@ ideas, and practice data storytelling.
 
 
 
-\*\*Highlights:\*\*
+*Highlights:\*\*
 
 \- Early‑round chaos dominates
 
