@@ -1,4 +1,4 @@
-\# March Madness: Perfect Bracket Survival
+# March Madness: Perfect Bracket Survival
 
 
 
@@ -6,7 +6,7 @@ This project explores how long “perfect” NCAA Tournament brackets survive ea
 
 
 
-\## Why this project?
+## Why this project?
 
 After my own bracket busted on day one of the 2026 tournament, I wanted to see how
 
@@ -14,7 +14,7 @@ often perfection actually lasts — and whether recent history suggests any tren
 
 
 
-\## Key Takeaways
+## Key Takeaways
 
 \- Early upsets play an outsized role
 
@@ -24,7 +24,7 @@ often perfection actually lasts — and whether recent history suggests any tren
 
 
 
-\## Data
+## Data
 
 Source: NCAA.com — “The longest an NCAA bracket has ever stayed perfect”
 
@@ -32,7 +32,7 @@ Source: NCAA.com — “The longest an NCAA bracket has ever stayed perfect”
 
 
 
-\## Tools
+## Tools
 
 \- Tableau
 
