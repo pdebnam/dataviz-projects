@@ -26,7 +26,7 @@ ideas, and practice data storytelling.
 
 
 
-\### 🏀 March Madness: How Long Do Perfect Brackets Survive?
+### 🏀 March Madness: How Long Do Perfect Brackets Survive?
 
 \*\*Question:\*\* How long do “perfect” NCAA Tournament brackets typically last?
 
