@@ -32,7 +32,7 @@ ideas, and practice data storytelling.
 
 
 
-*Highlights:\*\*
+**Highlights:\*\*
 
 \- Early‑round chaos dominates
 
