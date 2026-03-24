@@ -38,7 +38,7 @@ Source: NCAA.com — “The longest an NCAA bracket has ever stayed perfect”
 
 
 
-\## Notes
+## Notes
 
 2020 excluded due to tournament cancellation.
 
