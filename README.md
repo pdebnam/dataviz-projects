@@ -44,7 +44,7 @@ ideas, and practice data storytelling.
 
 📊 \*\*Data source:\*\* NCAA.com  
 
-🔗 \*\*Tableau Public:\*\* \_(link here)\_  
+
 
 📁 \*\*Project files:\*\* `/march-madness-perfect-brackets`
 
